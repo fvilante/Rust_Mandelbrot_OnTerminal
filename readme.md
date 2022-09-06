@@ -1,4 +1,4 @@
-Credits: Code from book (Rust in Action)[https://www.rustinaction.com/]
+Credits: Code from book [Rust in Action](https://www.rustinaction.com/) by [Tim McNamara](https://twitter.com/timClicks)
 
 # Usage
 
@@ -6,13 +6,13 @@ Open terminal
 
 Clone this repository from github into your local storage.
 
-Change to the project on your local storage
+Change to the project directory on your local storage
 
 Type `cargo run` and voialá.
 
 # Prerequisites
 
-Have (Rust)[https://www.rust-lang.org/tools/install] instaled on your machine
+Have [Rust](https://www.rust-lang.org/tools/install) instaled on your machine
 
 # Expected result
 
