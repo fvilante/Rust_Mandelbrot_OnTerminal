@@ -1,7 +1,7 @@
 
 # Objective
 
-This program written in Rust programming language, use less than 65 lines of code to compute and draw an ASCII representation of a mandelbrot fractal on your terminal screen.
+This program written in Rust programming language, use [less than 65 lines of code](https://github.com/fvilante/Rust_Mandelbrot_OnTerminal/blob/main/src/main.rs) to compute and draw an ASCII representation of a mandelbrot fractal on your terminal screen.
 
 The objective is to show the expressiveness power of Rust Language.
 
