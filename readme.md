@@ -1,8 +1,12 @@
-Credits: Code from book [Rust in Action](https://www.rustinaction.com/) by [Tim McNamara](https://twitter.com/timClicks)
 
 # Objective
 
-This program written in Rust language, use less than 65 lines of code to compute and draw an ASCII representation of a mandelbrot fractal on your terminal screen.
+This program written in Rust programming language, use less than 65 lines of code to compute and draw an ASCII representation of a mandelbrot fractal on your terminal screen.
+
+The objective is to show the expressiveness power of Rust Language.
+
+Credits: Code from book [Rust in Action](https://www.rustinaction.com/) by [Tim McNamara](https://twitter.com/timClicks)
+
 
 # Usage
 
